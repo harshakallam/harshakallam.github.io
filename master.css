@@ -23,7 +23,7 @@ html{
 #name {
 	margin-left: 28vw;
 	font-size: 40px;
-	/* font-family:Lobster; */
+	font-family:Lobster;
 	color:rgb(255, 0, 0, 0.5);
   position: absolute;
   margin-left: 450px;
