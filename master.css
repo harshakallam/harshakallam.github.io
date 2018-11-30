@@ -67,6 +67,9 @@ html{
       color:rgba(0, 0, 255, 0.5);
       font-weight: bold;
     }
+    nav a:active{
+      background-color: #D8BFD8;
+    }
 
 .current{
   color:blue;
