@@ -59,20 +59,15 @@ html{
       margin: 0;
       padding: 1px;
       background-color: color:rgba(0, 0, 255, 0.2);
-      text-decoration: none;
       box-sizing: border-box;
     }
     nav a:hover{
       background-color: color:rgba(0, 0, 255, 0.5);
       font-weight: bold;
     }
-    nav a:active{
-      background-color: color:rgba(0, 0, 255, 0.5);
-      font-weight: bold;
-    }
 
 .current{
-  color:blue;
+  background-color: blue;
 }
 .container{
     float: left;
