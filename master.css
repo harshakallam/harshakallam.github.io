@@ -110,12 +110,6 @@ h2{
         color: white;
     }
 
-#course-name{
-    font-weight:bold;
-    font-size: 2vw;
-    font-family: cursive;
-    }
-
 #company-name{
     height:2px;
     }
@@ -125,6 +119,9 @@ h2{
 
 #heading{
     font-weight:bold;
+}
+.content{
+  color: black;
 }
 .footer{
     margin-left: 30vw;
@@ -147,7 +144,7 @@ h2{
 .wrap {
   max-width: 950px;
   margin: 0 auto;
-  padding: 50px;
+  padding: 20px;
   overflow: hidden;
 }
 
