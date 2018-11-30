@@ -58,17 +58,17 @@ html{
       width: 33.33%;
       margin: 0;
       padding: 1px;
-      /* color:rgba(255, 0, 0, 0.6); */
-      background-color: #708090;
+      background-color: color:rgba(0, 0, 255, 0.2);
       text-decoration: none;
       box-sizing: border-box;
     }
     nav a:hover{
-      color:rgba(0, 0, 255, 0.5);
+      background-color: color:rgba(0, 0, 255, 0.5);
       font-weight: bold;
     }
     nav a:active{
-      background-color: #D8BFD8;
+      background-color: color:rgba(0, 0, 255, 0.5);
+      font-weight: bold;
     }
 
 .current{
